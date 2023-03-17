@@ -1,0 +1,1131 @@
+[
+    {
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Samsung 40ys 8Gb + 128Gb",
+      "price": "100000",
+      "author": {
+        "name": "Samsung",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/2Nk6GCx/New-Project.jpg",
+      "published_date": "2023-02-24",
+      "price": "80000",
+      "allinfo": {
+        "model": "Samsung 40ys",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"108/2 Megapixel",
+        "frontCamera":"32/2 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+      
+    },
+
+
+
+    {
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Samsung y50s 8Gb + 128Gb",
+      "price": "100000",
+      "author": {
+        "name": "Samsung",
+        "published_date": "2023-01-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/NmYvd1H/New-Project-2.jpg",
+      "allinfo": {
+        "model": "Samsung y50s",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"64/2 Megapixel",
+        "frontCamera":"16/2 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.4 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+
+    {
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Nokia 5ys 4Gb + 64Gb Tops",
+      "price": "90000",
+      "author": {
+        "name": "Nokia",
+        "published_date": "2022-12-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://i.ibb.co/Fbf7WgQ/New-Project-1.jpg",
+      "allinfo": {
+        "model": "Nokia 5ys",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48/2 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Thiland"
+      }
+    },
+
+
+    {
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Iphone 7s+ 4Gb + 64Gb",
+      "price": "80000",
+      "author": {
+        "name": "Apple",
+        "published_date": "2020-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://i.ibb.co/9GS56c9/New-Project-3.jpg",
+      "allinfo": {
+        "model": "Iphone 7s+",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48/2 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Thiland"
+      }
+    },
+
+    {
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 400,
+      "title": "Iphone 7s+ 4Gb + 64Gb",
+      "price": "80000",
+      "author": {
+        "name": "Apple",
+        "published_date": "2020-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://i.ibb.co/9GS56c9/New-Project-3.jpg",
+      "allinfo": {
+        "model": "Iphone 7s+",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48/2 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Thiland"
+      }
+    },
+
+    {
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Iphone 12 4Gb + 128Gb",
+      "price": "120000",
+      "author": {
+        "name": "Apple",
+        "published_date": "2022-08-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"},
+        "image_url": "https://i.ibb.co/BVxK6WS/New-Project-4.jpg",
+        "allinfo": {
+        "model": "Iphone 12",
+        "ram": "4 GB",
+        "rom": "128 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48/2 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Thiland"
+      }
+    },
+      
+     {
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Iphone 12 4Gb + 128Gb",
+      "price": "120000",
+      "author": {
+        "name": "Apple",
+        "published_date": "2022-08-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"},
+        "image_url": "https://i.ibb.co/447v3B3/New-Project-7.jpg",
+        "allinfo": {
+        "model": "Iphone 12",
+        "ram": "4 GB",
+        "rom": "128 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48/2 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Thiland"
+      }
+    },
+
+     {
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Iphone 12 4Gb + 128Gb",
+      "price": "120000",
+      "author": {
+        "name": "Apple",
+        "published_date": "2022-08-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"},
+        "image_url": "https://i.ibb.co/BVxK6WS/New-Project-4.jpg",
+        "allinfo": {
+        "model": "Iphone 12",
+        "ram": "4 GB",
+        "rom": "128 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48/2 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Thiland"
+      }
+    },
+
+    {
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Iphone 13+ 8Gb + 128Gb",
+      "price": "140000",
+      "author": {
+        "name": "Apple",
+        "published_date": "2022-02-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://i.ibb.co/BVxK6WS/New-Project-4.jpg",
+      "allinfo": {
+        "model": "Iphone 13+",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48/2 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Germany"
+      }
+    },
+
+    {
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": null,
+      "title": "Iphone 7s 2Gb + 32Gb",
+      "price": "60000",
+      "author": {
+        "name": "Apple",
+        "published_date": "2018-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "image_url": "https://i.ibb.co/cgBPJZp/New-Project-5.jpg",
+      "allinfo": {
+        "model": "Iphone 7s",
+        "ram": "2 GB",
+        "rom": "32 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"8 Megapixel",
+        "frontCamera":"6 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Germany"
+      }
+    },
+
+    {
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 980,
+      "title": "Iphone 13+ 8Gb + 128Gb",
+      "price": "140000",
+      "author": {
+        "name": "Apple",
+        "published_date": "2022-02-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://i.ibb.co/BVxK6WS/New-Project-4.jpg",
+      "allinfo": {
+        "model": "Iphone 13+",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48/2 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Germany"
+      }
+    },
+
+    {
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 111,
+      "title": "Iphone 12 8Gb + 128Gb",
+      "price": "160000",
+      "author": {
+        "name": "Apple",
+        "published_date": null,
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://i.ibb.co/rbrY41v/New-Project-6.jpg",
+      "allinfo": {
+        "model": "Iphone 12",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, gray, black",
+        "network":"3G, 4G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "160 grams",
+        "size": "6.2 inc",
+        "battery": "5000 mAH",
+        "android": "android 11",
+        "madein":"Thiland"
+      }
+    },
+
+
+
+    {
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Vivo y50S 8Gb + 128Gb",
+      "price": "50000",
+      "author": {
+        "name": "Vivo",
+        "published_date": "2022-08-25",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://i.ibb.co/jz0M0pp/New-Project-8.jpg",
+      "allinfo": {
+        "model": "Vivo y50s",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"108/2 Megapixel",
+        "frontCamera":"32/2 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 733,
+      "title": "Vivo y20s 6Gb + 64Gb",
+      "price": "40000",
+      "author": {
+        "name": "Vivo",
+        "published_date": "2022-08-01",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
+      "image_url": "https://i.ibb.co/26zV1p2/New-Project-9.jpg",
+      "allinfo": {
+        "model": "Vivo y20s",
+        "ram": "6 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"108/2 Megapixel",
+        "frontCamera":"32/2 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+{
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Vivo c1 4Gb + 64Gb",
+      "price": "25000",
+      "author": {
+        "name": "Vivo",
+        "published_date": "2023-02-25",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://i.ibb.co/4ZP7QN0/New-Project-11.jpg",
+      "allinfo": {
+        "model": "Vivo c1",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Vivo c21 8Gb + 128Gb",
+      "price": "85000",
+      "author": {
+        "name": "Vivo",
+        "published_date": "2022-09-03",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+      "image_url": "https://i.ibb.co/vhymwVg/New-Project-10.jpg",
+      "allinfo": {
+        "model": "Vivo c21",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"108/2 Megapixel",
+        "frontCamera":"32/2 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"China"
+      }
+    },
+    {
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 127,
+      "title": "Vivo c1 4Gb + 64Gb",
+      "price": "25000",
+      "author": {
+        "name": "Vivo",
+        "published_date": "2023-02-25",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://i.ibb.co/4ZP7QN0/New-Project-11.jpg",
+      "allinfo": {
+        "model": "Vivo c1",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+
+
+
+    {
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 700,
+      "title": "Samsung y30 6GB + 64Gb",
+      "price": "20000",
+      "author": {
+        "name": "Samsung",
+        "published_date": "2022-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/S3yc3rF/New-Project-12.jpg",
+      "allinfo": {
+        "model": "Samsung y30",
+        "ram": "6 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 300,
+      "title": "Samsung ys20 8Gb + 128Gb",
+      "price": "950000",
+      "author": {
+        "name": "Samsung",
+        "published_date": "2023-03-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/pJJq0Cd/New-Project-13.jpg",
+      "allinfo": {
+        "model": "Samsung ys20",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"108 Megapixel",
+        "frontCamera":"32 Megapixel",
+        "resulation": "1080",
+        "width": "190 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 11",
+        "madein":"Japan"
+      }
+    },
+    {
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 700,
+      "title": "Samsung y30 6GB + 64Gb",
+      "price": "20000",
+      "author": {
+        "name": "Samsung",
+        "published_date": "2022-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/S3yc3rF/New-Project-12.jpg",
+      "allinfo": {
+        "model": "Samsung y30",
+        "ram": "6 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 0,
+      "title": "Samsung 30ys 8Gb + 128Gb",
+      "price": "800000",
+      "author": {
+        "name": "Samsung",
+        "published_date": "2022-08-25 03:09:16",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/71k2Trf/New-Project-14.jpg",
+      "allinfo": {
+        "model": "Vivo c1",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 320,
+      "title": "Samsung banga pro 8Gb + 128Gb",
+      "price": "110000",
+      "author": {
+        "name": "Samsung",
+        "published_date": "2022-08-25",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/71k2Trf/New-Project-14.jpg",
+      "image_url": "https://i.ibb.co/XCjTZ3m/New-Project-15.jpg",
+      "allinfo": {
+        "model": "Vivo c1",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 700,
+      "title": "Samsung y30 6GB + 64Gb",
+      "price": "20000",
+      "author": {
+        "name": "Samsung",
+        "published_date": "2022-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/S3yc3rF/New-Project-12.jpg",
+      "allinfo": {
+        "model": "Samsung y30",
+        "ram": "6 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+
+    {
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 552,
+      "title": "Xaiomi y8 4Gb + 64Gb",
+      "price": "25000",
+      "author": {
+        "name": "Xaiomi",
+        "published_date": "2022-08-27",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://i.ibb.co/MhKFY09/New-Project-19.jpg",
+      "allinfo": {
+        "model": "Xaiomi y8",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 89,
+      "title": "Xaiomi poco y8 8Gb + 64Gb",
+      "price": "110000",
+      "author": {
+        "name": "Xaiomi",
+        "published_date": "2022-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://i.ibb.co/Fg6Nn47/New-Project-16.jpg",
+      "allinfo": {
+        "model": "Xaiomi poco y8",
+        "ram": "8 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 798,
+      "title": "Redmi y22 4Gb + 64Gb",
+      "price": "70000",
+      "author": {
+        "name": "Xaiomi",
+        "published_date": "2022-08-25",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://i.ibb.co/t3sVnz2/New-Project-17.jpg",
+      "allinfo": {
+        "model": "Redmi y22",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 879,
+      "title": "redmi poco y9 8Gb + 128Gb",
+      "price": "800000",
+      "author": {
+        "name": "Xaiomi",
+        "published_date": "2022-08-25 11:53:13",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://i.ibb.co/4WQNjW0/New-Project-18.jpg",
+      "allinfo": {
+        "model": "Redmi poco y9",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 89,
+      "title": "Xaiomi poco y8 8Gb + 64Gb",
+      "price": "110000",
+      "author": {
+        "name": "Xaiomi",
+        "published_date": "2022-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "image_url": "https://i.ibb.co/Fg6Nn47/New-Project-16.jpg",
+      "allinfo": {
+        "model": "Xaiomi poco y8",
+        "ram": "8 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+
+    {
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 231,
+      "title": "Oppo s13 6Gb + 64Gb",
+      "price": "40000",
+      "author": {
+        "name": "Oppo",
+        "published_date": "2022-08-02",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://i.ibb.co/MhKFY09/New-Project-19.jpg",
+      "allinfo": {
+        "model": "Oppo s13",
+        "ram": "6 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 546,
+      "title": "Oppo y90 4Gb + 128Gb",
+      "price": "50000",
+      "author": {
+        "name": "The Philadelphia Inquirer",
+        "published_date": "2022-08-30 22:00:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "image_url": "https://i.ibb.co/jTbzcBz/New-Project-20.jpg",
+      "allinfo": {
+        "model": "Oppo y90",
+        "ram": "4 GB",
+        "rom": "128 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 231,
+      "title": "Oppo s13 6Gb + 64Gb",
+      "price": "40000",
+      "author": {
+        "name": "Oppo",
+        "published_date": "2022-08-02",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "image_url": "https://i.ibb.co/MhKFY09/New-Project-19.jpg",
+      "allinfo": {
+        "model": "Oppo s13",
+        "ram": "6 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 1870,
+      "title": "Oppo c1 4Gb + 64Gb",
+      "price": "19000",
+      "author": {
+        "name": "Oppo",
+        "published_date": "2022-08-24",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "image_url": "https://i.ibb.co/7GBhCCy/New-Project-21.jpg",
+      "published_date": "2022-08-24",
+      "allinfo": {
+        "model": "Oppo c1",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "06",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 354,
+      "title": "Oppo y50s 4Gb + 64Gb",
+      "price": "30000",
+      "author": {
+        "name": "Oppo",
+        "published_date": "2022-08-30",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://i.ibb.co/yy7zDJ6/New-Project-22.jpg",
+      "allinfo": {
+        "model": "Vivo c1",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+
+
+    {
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "HTC p5 4Gb + 64Gb",
+      "price": "64000",
+      "author": {
+        "name": "HTC",
+        "published_date": "2022-08-26",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+      "image_url": "https://i.ibb.co/jg9BxLd/New-Project-23.jpg",
+     "allinfo": {
+        "model": "HTC",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "HTC a4 4Gb + 64Gb",
+      "price": "85000",
+      "author": {
+        "name": "HTC",
+        "published_date": "2022-08-26",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
+      "image_url": "https://i.ibb.co/KqXhQdP/New-Project-24.jpg",
+      "allinfo": {
+        "model": "Vivo c1",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "HTC p5 4Gb + 64Gb",
+      "price": "64000",
+      "author": {
+        "name": "HTC",
+        "published_date": "2022-08-26",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+      "image_url": "https://i.ibb.co/jg9BxLd/New-Project-23.jpg",
+     "allinfo": {
+        "model": "HTC",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+    {
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "HTC p5 4Gb + 64Gb",
+      "price": "64000",
+      "author": {
+        "name": "HTC",
+        "published_date": "2022-08-26",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+      "image_url": "https://i.ibb.co/jg9BxLd/New-Project-23.jpg",
+     "allinfo": {
+        "model": "HTC",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    },
+
+    {
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_view": 100,
+      "title": "HTC p5 4Gb + 64Gb",
+      "price": "64000",
+      "author": {
+        "name": "HTC",
+        "published_date": "2022-08-26",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+      "image_url": "https://i.ibb.co/jg9BxLd/New-Project-23.jpg",
+     "allinfo": {
+        "model": "HTC",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "color": "blue, red, black",
+        "network":"3G, 4G, 5G",
+        "backCamera":"48 Megapixel",
+        "frontCamera":"16 Megapixel",
+        "resulation": "1080",
+        "width": "180 grams",
+        "size": "6.66 inc",
+        "battery": "6000 mAH",
+        "android": "android 12",
+        "madein":"India"
+      }
+    }
+  ]
